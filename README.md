@@ -1,2 +1,2 @@
 # RepositorioHenry
-Ejercicio de practica 
+Ejercicio de practica para el repositorio
